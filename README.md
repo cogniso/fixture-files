@@ -24,7 +24,7 @@ Files are grouped into directories that are named according to their mime types.
 * video/mp4
 * video/quicktime
 
-*Missing something? Pull request that badboy.
+*Missing something? Pull request that badboy.*
 
 ##How to use
 
